@@ -16,12 +16,13 @@ body{
 .lbs
 {
 height: 100px;
+border-radius: 0px 0px 35px 0px;
 }
 
 
 .N-1
 {
-    padding: 25px;
+    padding: 25px; /*nästan så att jag vill ta bort denna för att ha loggan i hörnet*/
 }
 
 .nav 
