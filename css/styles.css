@@ -9,7 +9,7 @@ body{
     display: grid;
     grid-template-columns: auto 1fr 1fr 1fr;
     border: black 2px solid;
-    grid-gap:10px;
+    
     
 }
 
@@ -29,5 +29,10 @@ height: 100px;
     align-self: center;
     text-align: center;
     border: black 2px solid;
+    margin-right:25px;
 }
 
+.N-4
+{
+    
+}
